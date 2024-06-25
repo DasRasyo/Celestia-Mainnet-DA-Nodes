@@ -394,7 +394,7 @@ sleep 20
 echo -e "\033[38;5;205m⚠️⚠️⚠️Important NOTE: You need to back up the keys folder under the .celestia-bridge folder with WinSCP or a tool with the same function. Your key and ID information is there. Be sure to back up this folder!\033[0m"
 sleep 10
 
-echo -e "\033[38;5;205mNOTE: As the network moves forward, it may take a little more time to synchronize to the network. If you want to continue without waiting, you can use the snapshot provided by the Itrocket team. For details: https://itrocket.net/services/testnet/celestia/ \033[0m"
+echo -e "\033[38;5;205mNOTE: As the network moves forward, it may take a little more time to synchronize to the network. If you want to continue without waiting, you can use the snapshot provided by the Itrocket team. For details: https://itrocket.net/services/mainnet/celestia/bridge-node/ \033[0m"
 
 echo -e "\033[35mGood Luck My Modular Friend!\033[0m"
 
